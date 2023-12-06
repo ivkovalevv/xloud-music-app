@@ -109,18 +109,17 @@ export default [
     },
     {
       id: 14,
-      src: "../beats/Xloud\ Music\ -\ Wanted\ You.mp3",
-      preview:
-        "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/100x100/cradles-1586957231-QpMwffYL5H.png",
+      src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Wanted%20You.mp3?raw=true",
+      preview: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
       duration: 162,
       title: "Wanted You",
       artists: "Xloud Music",
     },
     {
       id: 15,
-      src: "../beats/Xloud\ Music\ -\ Hurt.mp3",
+      src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Hurt.mp3?raw=true",
       preview:
-        "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/100x100/cradles-1586957231-QpMwffYL5H.png",
+      "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
       duration: 53,
       title: "Hurt",
       artists: "Xloud Music",
