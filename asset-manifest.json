@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xloudmusicapp/static/css/main.0f37ea4f.css",
-    "main.js": "/xloudmusicapp/static/js/main.2241d9f9.js",
+    "main.css": "/xloudmusicapp/static/css/main.fea6ee96.css",
+    "main.js": "/xloudmusicapp/static/js/main.436cc49c.js",
     "static/js/787.f168cb71.chunk.js": "/xloudmusicapp/static/js/787.f168cb71.chunk.js",
     "index.html": "/xloudmusicapp/index.html",
-    "main.0f37ea4f.css.map": "/xloudmusicapp/static/css/main.0f37ea4f.css.map",
-    "main.2241d9f9.js.map": "/xloudmusicapp/static/js/main.2241d9f9.js.map",
+    "main.fea6ee96.css.map": "/xloudmusicapp/static/css/main.fea6ee96.css.map",
+    "main.436cc49c.js.map": "/xloudmusicapp/static/js/main.436cc49c.js.map",
     "787.f168cb71.chunk.js.map": "/xloudmusicapp/static/js/787.f168cb71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f37ea4f.css",
-    "static/js/main.2241d9f9.js"
+    "static/css/main.fea6ee96.css",
+    "static/js/main.436cc49c.js"
   ]
 }
