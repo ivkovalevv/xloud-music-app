@@ -25,13 +25,13 @@ const PlayModal = (props) => {
             </div>
             <div className={'modal-controls'}>
                 <IconButton onClick={() => handlerPrevAudio(currentTrack)}>
-                    <SkipPrevious></SkipPrevious>
+                    <SkipPrevious style={{ fontSize: 40 }}></SkipPrevious>
                 </IconButton>
                 <IconButton onClick={() => handlerToggleAudio(currentTrack)}>
-                    {isPlaying ? <Pause></Pause> : <PlayArrow></PlayArrow>}
+                    {isPlaying ? <Pause style={{ fontSize: 50 }}></Pause> : <PlayArrow style={{ fontSize: 50 }}></PlayArrow>}
                 </IconButton>
                 <IconButton onClick={() => handlerNextAudio(currentTrack)}>
-                    <SkipNext></SkipNext>
+                    <SkipNext style={{ fontSize: 40 }}></SkipNext>
                 </IconButton>
             </div>
         </div>

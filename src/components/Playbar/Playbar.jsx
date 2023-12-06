@@ -86,8 +86,8 @@ const Playbar = (props) => {
                     </IconButton>
                 </div>
                 <div className={'playbar-credits'} onClick={() => props.openModal()}>
-                    <h4>{title}</h4>
-                    <p>{artists}</p>
+                    <h4 className={'playbar-title'}>{title}</h4>
+                    <p className={'playbar-artists'}>{artists}</p>
                 </div>
             </div>
             <div className={'playbar-slider'}>
