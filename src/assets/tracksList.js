@@ -109,7 +109,7 @@ export default [
     },
     {
       id: 14,
-      src: "/beats/Xloud\ Music\ -\ Wanted\ You.mp3",
+      src: "../beats/Xloud\ Music\ -\ Wanted\ You.mp3",
       preview:
         "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/100x100/cradles-1586957231-QpMwffYL5H.png",
       duration: 162,
@@ -118,7 +118,7 @@ export default [
     },
     {
       id: 15,
-      src: "/beats/Xloud\ Music\ -\ Hurt.mp3",
+      src: "../beats/Xloud\ Music\ -\ Hurt.mp3",
       preview:
         "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/100x100/cradles-1586957231-QpMwffYL5H.png",
       duration: 53,
