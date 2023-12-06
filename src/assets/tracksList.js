@@ -45,7 +45,7 @@ export default [
       artists: "Xloud Music",
     },
     {
-      id: 5,
+      id: 6,
       src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Strung%20Out.mp3?raw=true",
       preview:
         "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
@@ -54,7 +54,7 @@ export default [
       artists: "Xloud Music",
     },
     {
-      id: 6,
+      id: 7,
       src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Swish.mp3?raw=true",
       preview:
         "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
@@ -63,7 +63,7 @@ export default [
       artists: "Xloud Music",
     },
     {
-      id: 7,
+      id: 8,
       src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Vibes.mp3?raw=true",
       preview:
         "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
@@ -72,7 +72,7 @@ export default [
       artists: "Xloud Music",
     },
     {
-      id: 7,
+      id: 9,
       src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Rari.mp3?raw=true",
       preview:
         "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
@@ -81,7 +81,7 @@ export default [
       artists: "Xloud Music",
     },
     {
-      id: 14,
+      id: 10,
       src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Wanted%20You.mp3?raw=true",
       preview: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
       duration: 162,
@@ -89,7 +89,7 @@ export default [
       artists: "Xloud Music",
     },
     {
-      id: 15,
+      id: 11,
       src: "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/beats/Xloud%20Music%20-%20Hurt.mp3?raw=true",
       preview:
       "https://github.com/ivkovalevv/xloudmusicapp/blob/main/public/img/ex.jpg?raw=true",
@@ -98,7 +98,7 @@ export default [
       artists: "Xloud Music",
     },
     {
-      id: 2,
+      id: 12,
       src: "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/154/no-way-back-1656410438-DYBZU8U2rN.mp3",
       preview:
         "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/113/1000x0/falling-1649412036-lkoB5hiJq8.jpg",
