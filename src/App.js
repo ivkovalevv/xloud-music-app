@@ -1,25 +1,29 @@
-import logo from './logo.svg';
+import React, { useState } from "react"
+import MainPage from "./pages/MainPage/MainPage"
 import './App.css';
+import Playbar from "./components/Playbar/Playbar"
+import PlayModal from "./components/PlayModal/PlayModal";
 
-function App() {
+const App = () => {
+  const [stateModal, setStateModal] = useState(false)
+
+  const openModal = () => {
+    setStateModal(true)
+  }
+
+  const nonVisible = () => {
+    setStateModal(false)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className={'wrapper'}>
+      <MainPage></MainPage>
+      <Playbar openModal={openModal}></Playbar>
+      {
+        stateModal ? <PlayModal nonVisible={nonVisible}></PlayModal> : <></>
+      }
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
