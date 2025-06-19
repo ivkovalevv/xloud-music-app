@@ -4,6 +4,7 @@
 [![Source Code](https://img.shields.io/badge/-КОД-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivkovalevv/xloudmusicapp)
 
 Минималистичный музыкальный плеер с удобным поиском и базовыми функциями
+
 **Все треки, кроме "Custody - No Way Back", написаны мной в FL Studio**
 
 ## ✨ Основные возможности
