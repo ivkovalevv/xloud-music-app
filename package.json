@@ -1,7 +1,7 @@
 {
-  "name": "xloud-music-app",
+  "name": "xloudmusicapp",
   "version": "0.1.0",
-  "homepage": "https://ivkovalevv.github.io/xloud-music-app",
+  "homepage": "https://ivkovalevv.github.io/xloudmusicapp",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
